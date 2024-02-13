@@ -25,7 +25,7 @@ function showMessage(response) {
       document.getElementById("no-button").remove();
   
       const yesMessage = document.getElementById("question");
-      yesMessage.textContent = "LESGOOO see you on the 14th babe😘😘";
+      yesMessage.textContent = "Happy Valentine's day babe😘😘. Love you so much";
       yesMessage.style.display = "block";
       yesMessage.style.fontStyle = "normal";
       document.getElementsByClassName("image")[0].src = "giphy (5).gif";
